@@ -1,3 +1,3 @@
 from setuptools import setup
 
-setup(name="iwhwrmhdxowmzdjbigmd", version="1.0.0")
+setup(name="hello_world_123", version="1.0.0")
